@@ -1,23 +1,22 @@
 # Task Management System - Project TC
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby on Rails5速習実践ガイドの課題を練習するリポジトリ
 
 Things you may want to cover:
 
 * Ruby version
-3.2.0
+    - 3.2.0
 
 * System dependencies
-- use slim instead of ERB
+    - use slim instead of ERB
 
 * Configuration
 
 * Database creation
-- PostgreSQL 16(Windows)
+    - PostgreSQL 16(Windows)
 
 * Database initialization
-- ActiveRecord
+    - ActiveRecord
 
 * How to run the test suite
 
